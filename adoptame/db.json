@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "usuario": "dasdas",
+      "password": "sadas",
+      "id": 4
+    },
+    {
+      "usuario": "d",
+      "password": "q",
+      "id": 7
+    },
+    {
+      "usuario": "s",
+      "password": "d",
+      "id": 8
+    },
+    {
+      "usuario": "camil",
+      "password": "aprueba",
+      "id": 15
+    },
+    {
+      "usuario": "asd",
+      "password": "dd",
+      "id": 16
+    },
+    {
+      "usuario": "cami",
+      "password": "333",
+      "id": 17
+    }
+  ]
+}
